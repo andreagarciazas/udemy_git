@@ -1,2 +1,5 @@
 Segundo vídeo de uso de Git
 Curso de udemy
+
+En la segunda parte tenemos que añadir algún cambio
+En el editor de texto que utiliza él detecta el cambio.
