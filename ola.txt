@@ -5,6 +5,8 @@ En la segunda parte tenemos que añadir algún cambio
 En el editor de texto que utiliza él detecta el cambio.
 
 
+Esta es la línea que voy a añadir para el fichero de Juan. Ahora los ficheros son distintos.
+
 El fichero no tiene sentido ninguno. Hemos pasado ahora a trabajar con la rama develop.
 
 Este ahora pasa a ser el fichero de Juan. Entonces haremos el primer cambio.
