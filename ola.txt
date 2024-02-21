@@ -8,3 +8,6 @@ En el editor de texto que utiliza él detecta el cambio.
 El fichero no tiene sentido ninguno. Hemos pasado ahora a trabajar con la rama develop.
 
 Este ahora pasa a ser el fichero de Juan. Entonces haremos el primer cambio.
+
+Ahora le toca a Pepe hacer las modificaciones en el fichero de Juan. 
+Supongo que esto tendrá algo que ver con los pull and merge request, pero paso a paso.
