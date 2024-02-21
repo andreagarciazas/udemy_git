@@ -3,3 +3,6 @@ Curso de udemy
 
 En la segunda parte tenemos que añadir algún cambio
 En el editor de texto que utiliza él detecta el cambio.
+
+
+El fichero no tiene sentido ninguno. Hemos pasado ahora a trabajar con la rama develop.
